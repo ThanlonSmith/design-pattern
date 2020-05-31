@@ -10,5 +10,3 @@ Python3实现设计模式，致力于将设计模式的思想应用在开发中�
 ##### [4.结构型模式.md](https://github.com/ThanlonSmith/Design-Pattern/blob/master/4.结构型模式.md)
 
 ##### [5.行为型模式.md](https://github.com/ThanlonSmith/Design-Pattern/blob/master/5.行为型模式.md)
-
-PS：代码在文档中!
